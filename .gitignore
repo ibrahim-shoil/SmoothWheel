@@ -1,0 +1,27 @@
+## .NET build output
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+## IDE / editor cruft
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.DS_Store
+
+## Published artifacts (built per-release; not committed)
+publish/
+*.publish/
+SmoothWheel.exe
+SmoothWheel.dll
+SmoothWheel.pdb
+
+## OS junk
+Thumbs.db
+Desktop.ini
