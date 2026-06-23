@@ -1,5 +1,7 @@
 # SmoothWheel
 
+![SmoothWheel](banner.png)
+
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-success.svg)
 ![.NET](https://img.shields.io/badge/.NET-10-purple.svg)
